@@ -1,0 +1,7 @@
+﻿{
+  "name": "AddressablesImageSystem",
+  "references": [
+    "Unity.Addressables",
+    "Unity.ResourceManager"
+  ]
+}

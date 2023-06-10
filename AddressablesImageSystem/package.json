@@ -4,5 +4,5 @@
     "version": "1.0.0",
     "unity": "2019.2",
     "keywords": ["UI", "ugui", "Unity UI", "Canvas","Addressable"],
-    "description": "Reference sprite in spriteAtlas to UGUI Image while using addressable easliy and never missing reference."
+    "description": "Reference sprite in spriteAtlas to UGUI Image by spriteAtlas name and sprite name while using addressable easliy and never missing reference supported hotfix system."
   }
